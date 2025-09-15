@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Nsanzimana Esdras<br><br>💻 Web Developer | IT Enthusiast from Rwanda<br>🚀 Passionate about building modern, responsive websites and smart systems<br>🛠️ Skilled in HTML, CSS, JavaScript, Python, Django, Laravel, MySQL<br><br>🌱 Currently exploring React and advanced system design<br>📌 Always eager to collaborate on open-source projects and innovative ideas<br><br>📫 Reach me at: nsanzimanaesdras2@gmail.com<br><br>🌍 Portfolio: esdras-kappa.vercel.app/
+👋 Hi, I'm Nsanzimana Esdras<br><br>💻 Web Developer | IT Enthusiast from Rwanda<br>🚀 Passionate about building modern, responsive websites and smart systems<br>🛠️ Skilled in HTML, CSS, JavaScript, Python, Django, Laravel, MySQL<br><br>🌱 Currently exploring React and advanced system design<br>📌 Always eager to collaborate on open-source projects and innovative ideas<br><br>📫 Reach me at: nsanzimanaesdras2@gmail.com<br><br>🌍 Portfolio: https://esdras-kappa.vercel.app/
 
 
 ## 🌐 Socials:
