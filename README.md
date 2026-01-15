@@ -1,127 +1,81 @@
-# 👋 Hello, I'm Esdras Nsanzimana
+<!--
+██╗  ██╗███████╗██╗     ██╗      ██████╗     ██╗    ██╗ ██████╗ ██╗     ███████╗
+██║  ██║██╔════╝██║     ██║     ██╔═══██╗    ██║    ██║██╔═══██╗██║     ██╔════╝
+███████║█████╗  ██║     ██║     ██║   ██║    ██║ █╗ ██║██║   ██║██║     ███████╗
+██╔══██║██╔══╝  ██║     ██║     ██║   ██║    ██║███╗██║██║   ██║██║     ╚════██║
+██║  ██║███████╗███████╗███████╗╚██████╔╝    ╚███╔███╔╝╚██████╔╝███████╗███████║
+╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝      ╚══╝╚══╝  ╚═════╝ ╚══════╝╚══════╝
+-->
 
-### 🚀 Full-Stack Developer | Tech Innovator from Rwanda 🇷🇼
-
-**Crafting digital experiences that bridge ideas with reality**  
-I specialize in building scalable web applications, modern interfaces, and smart systems that solve real-world problems.
-
----
-
-## 🎯 Core Expertise
-
-### 💻 **Frontend Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### 🔧 **Backend Development**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 🗄️ **Databases & Cloud**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🛠️ **DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 🚀 What I'm Building
-
-### 🌱 **Currently Exploring**
-- Advanced React patterns & state management
-- Microservices architecture
-- Cloud-native applications
-- AI/ML integration in web apps
-
-### 🔭 **Looking to Collaborate On**
-- Open-source projects with social impact
-- Innovative web solutions for African markets
-- Educational tech platforms
-- API development & integration
-
----
-
-## 📊 GitHub Analytics
-
+<!-- WAVING BANNER -->
 <div align="center">
-  
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=nsanzimana250&theme=radical&hide_border=true)
-  
-  ![](https://github-readme-stats.vercel.app/api?username=nsanzimana250&show_icons=true&theme=radical&hide_border=true)
-  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nsanzimana250&layout=compact&theme=radical&hide_border=true)
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:1e3c72&height=280&section=header&text=Esdras%20Nsanzimana&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Digital%20Creator&descSize=24&descAlignY=60" alt="Header" />
 </div>
 
----
-
-## 📫 Let's Connect & Collaborate
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://esdras-kappa.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/developeresdrad)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/nsanzimana21)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nsanzimanaesdras2@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nsanzimana250)
-
----
-
-## 💡 Featured Projects
-
-### 🔥 Recent Work
-- **[Project Alpha]** - Full-stack e-commerce platform with Django & React
-- **[Smart Dashboard]** - Real-time analytics dashboard with Vue.js & WebSockets
-- **[API Gateway]** - Microservices orchestration system
-- **[Mobile App]** - React Native application for local services
-
-### 🏆 Highlights
-- Built scalable applications serving 10k+ users
-- Contributed to 5+ open-source projects
-- Developed RESTful APIs with 99% uptime
-- Created responsive designs for all devices
-
----
-
-## 📚 Tech Philosophy
-
-> "Clean code, scalable architecture, and user-centered design are not just principles—they're promises to every user who interacts with my creations."
-
-**My Development Mantra:**
-1. **Simplicity** - Solve complex problems with elegant solutions
-2. **Performance** - Every millisecond counts
-3. **Accessibility** - Build for everyone, everywhere
-4. **Innovation** - Embrace new technologies responsibly
-
----
-
-## 🎨 Beyond Code
-
-When I'm not coding, you can find me:
-- 🎵 Exploring new music genres
-- 📚 Reading tech blogs and entrepreneurship books
-- 🌍 Contributing to tech communities in Rwanda
-- 🎮 Playing strategy games
-
----
-
+<!-- ANIMATED TYPING WELCOME -->
 <div align="center">
-  
-  ### ⚡ Quick Fact
-  > "Turning coffee into code since 2020"
-  
-  <img src="https://komarev.com/ghpvc/?username=nsanzimana250&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" />
-  
+  <h2>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hi"/> 
+    Hello World! I'm Esdras
+  </h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&height=30&lines=Building+the+Future+with+Code;From+Rwanda+to+the+Digital+World;Passionate+About+Clean+Architecture;Turning+Ideas+into+Digital+Reality;Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
+
+<br/>
+
+<!-- QUICK INFO CARDS -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <div>
+          <img src="https://img.shields.io/badge/Location-Kigali%2C%20Rwanda-4A90E2?style=for-the-badge&logo=map-marker&logoColor=white" />
+        </div>
+      </td>
+      <td align="center" width="33%">
+        <div>
+          <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-FF6B6B?style=for-the-badge&logo=developer&logoColor=white" />
+        </div>
+      </td>
+      <td align="center" width="33%">
+        <div>
+          <img src="https://img.shields.io/badge/Status-Building%20Awesome%20Projects-00D26A?style=for-the-badge&logo=statuspage&logoColor=white" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/><br/>
+
+<!-- ABOUT ME SECTION -->
+<div align="center">
+  <h2>🎯 About Me</h2>
+</div>
+
+<div align="center" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 30px; border-radius: 20px; border-left: 5px solid #4A90E2;">
+
+```javascript
+const esdras = {
+  pronouns: "he" | "him",
+  code: ["JavaScript", "TypeScript", "Python", "PHP"],
+  frameworks: ["React", "Vue", "Next.js", "Django", "Laravel"],
+  databases: ["MySQL", "PostgreSQL", "MongoDB", "Firebase"],
+  tools: ["Docker", "Git", "AWS", "Vercel", "Figma"],
+  architecture: ["Microservices", "REST APIs", "SPA", "PWA"],
+  
+  funFacts: [
+    "Can debug while sleeping 💤",
+    "Believes coffee ☕ is a programming language",
+    "Turns problems into pixel-perfect solutions 🎨",
+    "Currently learning: System Design & Cloud Native"
+  ],
+  
+  motto: "Write code that humans can read and machines can execute efficiently",
+  
+  currentlyWorkingOn: {
+    project: "Scalable E-commerce Platform",
+    techStack: ["Next.js 14", "Node.js", "MongoDB", "Redis"],
+    status: "🚀 In Development"
+  }
+};
