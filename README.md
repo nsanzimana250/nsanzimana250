@@ -1,88 +1,85 @@
-<!-- HEADER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&text=Esdras%20Nsanzimana&fontSize=58&fontColor=ffffff&desc=Full-Stack%20Developer%20•%20Digital%20Creator&descSize=22&descAlignY=65" />
-</div>
+# Esdras Nsanzimana
+
+**Full-Stack Developer**  
+Kigali, Rwanda
 
 ---
 
-## 👋 Hi, I'm Esdras
+## About Me
 
-Full-Stack Developer from **Kigali, Rwanda**, focused on building scalable, clean, and reliable digital products.
+I am a Full-Stack Developer based in Kigali, Rwanda. I focus on building reliable, scalable, and maintainable web applications. I enjoy solving real-world problems through clean code, thoughtful system design, and continuous learning.
 
-- 🔭 Currently working on **production-ready web systems**
-- ⚙️ Strong focus on **frontend architecture & backend APIs**
-- ☁️ Learning **cloud-native & system design**
-- 💡 I value **clarity, performance, and maintainability**
+I work comfortably across frontend, backend, databases, and deployment, and I value clarity, performance, and long-term maintainability in every project.
 
 ---
 
-## 🧠 Tech Stack
+## Technical Skills
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwindcss)
+- React  
+- Next.js  
+- Vue.js  
+- JavaScript  
+- TypeScript  
+- Tailwind CSS  
 
 ### Backend
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)
+- Node.js  
+- Express  
+- Django  
+- Django REST Framework  
+- Laravel  
+- FastAPI  
 
-### Databases & Cloud
-![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws)
+### Databases
+- PostgreSQL  
+- MySQL  
+- MongoDB  
+- Firebase  
+- Supabase  
+- Redis  
 
----
-
-## 🚀 Featured Projects
-
-### 🛒 E-Shop Platform
-- Full-stack e-commerce system
-- **Next.js · Node.js · MongoDB**
-- Secure payments & admin dashboard
-
-### 📊 Analytics Dashboard
-- Real-time data visualization
-- **Vue · Django · PostgreSQL**
-- Live updates via WebSockets
-
-### 🔐 Auth Service
-- Authentication microservice
-- **Node.js · JWT · Redis**
-- Rate limiting & MFA support
+### DevOps & Tools
+- Git & GitHub  
+- Docker  
+- AWS  
+- Vercel  
+- Netlify  
+- Nginx  
 
 ---
 
-## 📊 GitHub Stats
+## Selected Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nsanzimana250&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nsanzimana250&theme=radical&hide_border=true" height="160"/>
-</div>
+### E-Commerce Platform
+A full-stack e-commerce system with product management, secure payments, and an admin dashboard.  
+**Stack:** Next.js, Node.js, MongoDB, Redis
 
----
+### Analytics Dashboard
+A real-time analytics dashboard with live data updates and reporting features.  
+**Stack:** Vue.js, Django, PostgreSQL
 
-## 📬 Connect With Me
-
-<div align="center">
-
-[🌐 Portfolio](https://esdras-kappa.vercel.app/) •
-[💼 LinkedIn](https://linkedin.com/in/developeresdrad) •
-[🐦 Twitter](https://x.com/nsanzimana21) •
-[📧 Email](mailto:nsanzimanaesdras2@gmail.com)
-
-</div>
+### Authentication Service
+A secure authentication and authorization service with token-based access and rate limiting.  
+**Stack:** Node.js, JWT, Redis
 
 ---
 
-> **“Good code is written for humans first, machines second.”**
+## Work Philosophy
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nsanzimana250&style=flat&color=blue"/>
-</div>
+I believe good software should be:
+- Easy to understand  
+- Easy to maintain  
+- Built for humans first, machines second  
+
+Clean architecture and clear communication matter as much as features.
+
+---
+
+## Contact
+
+- Portfolio: https://esdras-kappa.vercel.app  
+- GitHub: https://github.com/nsanzimana250  
+- LinkedIn: https://linkedin.com/in/developeresdrad  
+- Twitter (X): https://x.com/nsanzimana21  
+- Email: nsanzimanaesdras2@gmail.com  
