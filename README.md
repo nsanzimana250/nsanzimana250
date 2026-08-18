@@ -104,16 +104,25 @@ A secure authentication and authorization service with token-based access contro
 
 ## 📈 GitHub Activity
 
+I use GitHub to build, improve, and document practical software projects.
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nsanzimana250&show_icons=true&hide_border=true&rank_icon=github" alt="Esdras GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsanzimana250&layout=compact&hide_border=true" alt="Top languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=nsanzimana250&hide_border=true" alt="GitHub streak" />
+| 🔨 Building | 📚 Learning | 🤝 Open To |
+|---|---|---|
+| Full-stack applications | Better system architecture | Collaboration |
+| Business systems | Performance optimization | Software projects |
+| APIs & dashboards | Cloud & DevOps | Developer opportunities |
 
 </div>
+
+### 🔗 Explore My Work
+
+- **Repositories:** [github.com/nsanzimana250?tab=repositories](https://github.com/nsanzimana250?tab=repositories)
+- **GitHub Profile:** [github.com/nsanzimana250](https://github.com/nsanzimana250)
+- **Portfolio:** [esdras-kappa.vercel.app](https://esdras-kappa.vercel.app)
+
+> GitHub already displays my live contribution graph directly on my profile, so this README avoids unreliable third-party statistics widgets.
 
 ---
 
